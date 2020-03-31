@@ -1,4 +1,0 @@
-# GO 
-
-Freeride Kite
-
