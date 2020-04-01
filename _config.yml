@@ -20,8 +20,7 @@
 
 title: GO
 email: info@wingworks.de
-description: >- # this means to ignore newlines until "baseurl:"
-  Freeride Kite
+description: Freeride Kite
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
